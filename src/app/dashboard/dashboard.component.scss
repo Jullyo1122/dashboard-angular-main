@@ -1,0 +1,64 @@
+mat-grid-tile {
+  background: lightblue;
+}
+.dash{
+  width: 80%;
+  margin-left: 17%;
+  margin-top: -41%;
+}
+
+.container-fluid1{
+  background-color: var(--color-deep);
+  width: 80%;
+  height: 45px;
+  margin-top: 2%;
+  border-radius: 10px;
+  margin-left: 17%;
+}
+
+.container-fluid{
+  background-color: var(--color-deep);
+  height: 650px;
+  width: 20%;
+  margin-left: -4%;
+  margin-top: -6%;
+}
+
+.mb-0.h1{
+  font-size: 20px;
+  margin-left: 5%;
+  color: var(--color-accent);
+  position: relative;
+  top: 22%;
+}
+.search-container {
+  margin: -17px 600px;
+}
+.busc{
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  margin-top: -1px;
+  background-color: var(--color-primary);
+  color: var(--color-accent);
+}
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: -28px 900px;
+}
+.menu {
+  display: flex;
+  gap: 15px;
+  padding: 20px 20px;
+  color: white;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.navbar-brand{
+  margin-left: 30px;
+  font-size: 20px;
+  margin-top: 50px;
+}
