@@ -49,6 +49,24 @@ mat-grid-tile {
   gap: 15px;
   margin: -28px 900px;
 }
+.but-not{
+  border: none;
+  background-color: var(--color-deep);
+}
+.img-not{
+  width: 25px;
+}
+.but-con{
+  border: none;
+  background-color: var(--color-deep);
+}
+.img-con{
+  width: 25px;
+}
+.but-per{
+  border: none;
+  background-color: var(--color-deep);
+}
 .menu {
   display: flex;
   gap: 15px;
